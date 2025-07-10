@@ -46,8 +46,4 @@ This repository contains solutions to three data science and programming tasks c
 - See each task's `requirements.txt` for specific dependencies.
 
 ## Author
-- [Your Name Here]
-
----
-
-For any questions or issues, please contact the repository maintainer. 
+- Sai Charan
